@@ -1,5 +1,6 @@
 removed_sources:
+  akima_0.5-10.tar.gz: bfc5cd4c4860be2f7c2122402dd16a2fcc247492
   akima_0.5-7.tar.gz: 7ba0f9510b49f6fcd617e891aa129ee29935a4ab
   akima_0.5-9.tar.gz: 317d30574846c1a54b562bd28c8723ddc5d1d224
 sources:
-  akima_0.5-10.tar.gz: bfc5cd4c4860be2f7c2122402dd16a2fcc247492
+  akima_0.5-11.tar.gz: 9f5833816e929ab755bc0dccd773fafa7796977f
