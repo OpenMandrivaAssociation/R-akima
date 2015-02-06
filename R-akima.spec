@@ -3,7 +3,7 @@
 
 Name:             R-%{packname}
 Version:          0.5.11
-Release:          1
+Release:          2
 Summary:          Interpolation of irregularly spaced data
 Group:            Sciences/Mathematics
 License:          file LICENSE
